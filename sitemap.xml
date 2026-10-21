@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Local development sitemap. Replace localhost URLs with the real HTTPS domain before deployment. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>http://localhost/horse-site/index.php</loc></url>
+  <url><loc>http://localhost/horse-site/about.php</loc></url>
+  <url><loc>http://localhost/horse-site/horse.php</loc></url>
+  <url><loc>http://localhost/horse-site/gallery.php</loc></url>
+  <url><loc>http://localhost/horse-site/contact.php</loc></url>
+  <url><loc>http://localhost/horse-site/privacy.php</loc></url>
+</urlset>

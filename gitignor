@@ -1,0 +1,13 @@
+# Private configuration
+.env
+.env.*
+!.env.example
+
+# Local database and backups
+*.sql
+*.sql.zip
+*.bak
+
+# Local development
+.DS_Store
+Thumbs.db

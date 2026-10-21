@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: http://localhost/horse-site/sitemap.xml
+# Replace this sitemap URL with the public HTTPS URL after deployment.
